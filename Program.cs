@@ -24,7 +24,7 @@ namespace Talang2015
             TestRefType(anArr);
             Console.WriteLine(anInt);
             Console.WriteLine(anArr);
-
+            Console.WriteLine("Hello");
         }
 
         static int TestValueType(ref int i)
